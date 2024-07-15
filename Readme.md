@@ -1,4 +1,4 @@
-The site is designed to showcase my work, skills, and achievements to potential clients or employers.<br/>
+The website is designed to create personalized notes on your academic subjects. <br/>
 
 
 <h4>Features</h4>
